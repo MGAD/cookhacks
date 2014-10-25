@@ -1,12 +1,18 @@
 <?php
 /* @var $this SiteController */
 
-$this->pageTitle=Yii::app()->name . ' - About';
+$this->pageTitle=Yii::app()->name . ' - О проекте';
 $this->breadcrumbs=array(
-	'About',
+	'О проекте',
 );
 ?>
-<h1>About</h1>
+<h1>О проекте</h1>
 
-<p>This is a "static" page. You may change the content of this page
-by updating the file <code><?php echo __FILE__; ?></code>.</p>
+<p>Наш проект cookhacks нацелен на то, чтобы упростить процесс приготовления, вместе с тем сделав 
+его увлекательным, простым и самое главное полезным!</p>
+
+<p>Проект пока находится на стадии разработки. А пока наслаждайтесь котиками;)</p>
+
+<img src="http://placekitten.com/450/300" alt="Kitty!"/>
+
+
