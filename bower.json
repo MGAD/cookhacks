@@ -1,0 +1,20 @@
+{
+  "name": "cookhacks",
+  "version": "0.0.0",
+  "homepage": "no",
+  "authors": [
+    "MGAD <mgad.project@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0"
+  }
+}

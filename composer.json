@@ -1,0 +1,14 @@
+{
+    "name": "mgad/cookhacks",
+    "description": "recipes and cooking hacks",
+    "require": {
+        "yiisoft/yii": "dev-master",
+        "twig/twig": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "MGAD",
+            "email": "mgad.project@gmail.com"
+        }
+    ]
+}
