@@ -9,7 +9,7 @@ return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
 	'name'=>'Cookhacks project',
 	'language'=>'ru',
-	'theme'=>'windows',
+	'theme'=>'windows/frontend/',
 
 	// preloading 'log' component
 	'preload'=>array('log'),
@@ -20,6 +20,12 @@ return array(
 		'application.components.*',
 		'application.modules.user.models.*',
         'application.modules.user.components.*',
+	),
+
+	'behaviors'=>array(
+	  'runEnd'=>array(
+	  'class'=>'application.behaviors.WebApplicationEndBehavior',
+	  ),
 	),
 
 	'modules'=>array(

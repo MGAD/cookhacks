@@ -97,7 +97,7 @@ class UserModule extends CWebModule
 	public $tableProfileFields = '{{profiles_fields}}';
 
     public $defaultScope = array(
-            'with'=>array('profile'),
+        'with'=>array('profile'),
     );
 	
 	static private $_user;

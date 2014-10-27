@@ -2,6 +2,1487 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "18027",
 "files": {
+	"\/app\/admin.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/admin.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_flat_0_aaaaaa_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_flat_75_ffffff_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 178,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_flat_75_ffffff_40x100.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_flat_75_ffffff_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_55_fbf9ee_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_65_ffffff_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_75_dadada_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_75_e6e6e6_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_95_fef1ec_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_222222_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_222222_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_222222_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_2e83ff_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_2e83ff_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_2e83ff_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_454545_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_454545_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_454545_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_888888_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_888888_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_888888_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_cd0a0a_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery-ui.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery-ui.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.accordion.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.accordion.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.all.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.all.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.autocomplete.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.autocomplete.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.base.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.base.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.button.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.button.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.core.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.core.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.datepicker.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.datepicker.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.dialog.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.dialog.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.progressbar.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.progressbar.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.resizable.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.resizable.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.slider.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.slider.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.tabs.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.tabs.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/base\/jquery.ui.theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_flat_0_aaaaaa_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_flat_55_fbec88_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_flat_55_fbec88_40x100.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_flat_55_fbec88_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_glass_75_d0e5f5_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_glass_75_d0e5f5_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_glass_75_d0e5f5_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_glass_85_dfeffc_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_glass_85_dfeffc_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_glass_85_dfeffc_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_glass_95_fef1ec_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_gloss-wave_55_5c9ccc_500x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3457,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_inset-hard_100_f5f8f9_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_inset-hard_100_f5f8f9_1x100.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_inset-hard_100_f5f8f9_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_inset-hard_100_fcfdfd_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_inset-hard_100_fcfdfd_1x100.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-bg_inset-hard_100_fcfdfd_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_217bc0_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5355,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_217bc0_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_217bc0_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_2e83ff_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_2e83ff_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_2e83ff_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_469bdd_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_469bdd_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_469bdd_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_6da8d5_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5355,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_6da8d5_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_6da8d5_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_cd0a0a_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_d8e7f3_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5355,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_d8e7f3_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_d8e7f3_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_f9bd01_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_f9bd01_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/images\/ui-icons_f9bd01_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/redmond\/jquery-ui.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/redmond\/jquery-ui.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/81ea3cc9\/js\/jquery-ui-1.8.4.custom.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/js\/jquery-ui-1.8.4.custom.min.js",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/js\/min\/jquery-ui-1.8.4.custom.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/81ea3cc9\/js\/jquery-ui-i18n.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/js\/jquery-ui-i18n.min.js",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/js\/min\/jquery-ui-i18n.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/81ea3cc9\/js\/jquery-ui.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/js\/jquery-ui.min.js",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/js\/min\/jquery-ui.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/81ea3cc9\/js\/jquery.json.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/js\/jquery.json.js",
+		"outputAbbreviatedPath": "\/app\/assets\/81ea3cc9\/js\/min\/jquery.json-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/9642e117\/detailview\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/9642e117\/detailview\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/9642e117\/gridview\/delete.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 715,
+		"inputAbbreviatedPath": "\/app\/assets\/9642e117\/gridview\/delete.png",
+		"outputAbbreviatedPath": "\/app\/assets\/9642e117\/gridview\/delete.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/9642e117\/gridview\/jquery.yiigridview.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/9642e117\/gridview\/jquery.yiigridview.js",
+		"outputAbbreviatedPath": "\/app\/assets\/9642e117\/gridview\/min\/jquery.yiigridview-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/9642e117\/gridview\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/9642e117\/gridview\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/9642e117\/gridview\/update.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 713,
+		"inputAbbreviatedPath": "\/app\/assets\/9642e117\/gridview\/update.png",
+		"outputAbbreviatedPath": "\/app\/assets\/9642e117\/gridview\/update.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/9642e117\/gridview\/view.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 803,
+		"inputAbbreviatedPath": "\/app\/assets\/9642e117\/gridview\/view.png",
+		"outputAbbreviatedPath": "\/app\/assets\/9642e117\/gridview\/view.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/9642e117\/listview\/jquery.yiilistview.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/9642e117\/listview\/jquery.yiilistview.js",
+		"outputAbbreviatedPath": "\/app\/assets\/9642e117\/listview\/min\/jquery.yiilistview-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/9642e117\/listview\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/9642e117\/listview\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/a5def130\/css\/ie.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/css\/ie.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/a5def130\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/a5def130\/css\/print.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/css\/print.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/a5def130\/css\/screen.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/css\/screen.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/a5def130\/images\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7207,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/images\/logo.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/images\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1075,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_close.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_close.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_loading.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8132,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_loading.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_loading.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_nav_left.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1029,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_nav_left.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_nav_left.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_nav_right.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1034,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_nav_right.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_nav_right.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_e.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_e.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_e.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_n.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_n.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_n.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_ne.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 313,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_ne.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_ne.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_nw.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 310,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_nw.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_nw.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_s.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_s.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_s.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_se.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 330,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_se.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_se.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_sw.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 317,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_sw.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_sw.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_w.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_w.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_shadow_w.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_title_left.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 496,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_title_left.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_title_left.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_title_main.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_title_main.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_title_main.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_title_over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_title_over.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_title_over.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancy_title_right.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 495,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_title_right.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancy_title_right.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancybox-x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancybox-x.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancybox-x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancybox-y.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancybox-y.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancybox-y.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/fancybox.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14353,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancybox.png",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/fancybox.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/jquery.fancybox-1.3.1.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/jquery.fancybox-1.3.1.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/a5def130\/js\/fancybox\/jquery.fancybox-1.3.1.pack.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/jquery.fancybox-1.3.1.pack.js",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/fancybox\/min\/jquery.fancybox-1.3.1.pack-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/a5def130\/js\/main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/main.js",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/a5def130\/js\/tooltip.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/tooltip.js",
+		"outputAbbreviatedPath": "\/app\/assets\/a5def130\/js\/min\/tooltip-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/b00c6d07\/pager.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/b00c6d07\/pager.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/autocomplete\/jquery.autocomplete.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/autocomplete\/jquery.autocomplete.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jquery.ajaxqueue.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.ajaxqueue.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.ajaxqueue-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.autocomplete.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.autocomplete.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.autocomplete-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.ba-bbq.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.ba-bbq.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.ba-bbq-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.ba-bbq.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.ba-bbq.min.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.ba-bbq.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.bgiframe.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.bgiframe.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.bgiframe-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.cookie.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.cookie.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.cookie-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.history.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.history.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.history-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.maskedinput.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.maskedinput.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.maskedinput-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.maskedinput.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.maskedinput.min.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.maskedinput.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.metadata.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.metadata.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.metadata-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.min.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.multifile.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.multifile.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.multifile-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.rating.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.rating.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.rating-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.treeview.async.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.treeview.async.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.treeview.async-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.treeview.edit.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.treeview.edit.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.treeview.edit-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.treeview.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.treeview.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.treeview-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.yii.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.yii.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.yii-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.yiiactiveform.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.yiiactiveform.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.yiiactiveform-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jquery.yiitab.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jquery.yiitab.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/jquery.yiitab-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_flat_0_aaaaaa_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_flat_75_ffffff_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_flat_75_ffffff_40x100.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_flat_75_ffffff_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_55_fbf9ee_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_65_ffffff_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_75_dadada_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_75_e6e6e6_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_95_fef1ec_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_222222_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3800,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_222222_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_222222_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_2e83ff_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3800,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_2e83ff_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_2e83ff_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_454545_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3800,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_454545_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_454545_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_888888_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3800,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_888888_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_888888_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_cd0a0a_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3800,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery-ui.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery-ui.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.accordion.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.accordion.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.autocomplete.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.autocomplete.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.button.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.button.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.core.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.core.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.datepicker.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.datepicker.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.dialog.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.dialog.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.menu.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.menu.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.progressbar.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.progressbar.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.resizable.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.resizable.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.selectable.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.selectable.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.slider.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.slider.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.spinner.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.spinner.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.tabs.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.tabs.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.tooltip.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/css\/base\/jquery.ui.tooltip.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/jui\/js\/jquery-ui-i18n.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/js\/jquery-ui-i18n.min.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/js\/min\/jquery-ui-i18n.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/jui\/js\/jquery-ui.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/js\/jquery-ui.min.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/jui\/js\/min\/jquery-ui.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/punycode.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/punycode.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/punycode-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/punycode.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/punycode.min.js",
+		"outputAbbreviatedPath": "\/app\/assets\/e40532a6\/min\/punycode.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/assets\/e40532a6\/rating\/jquery.rating.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/rating\/jquery.rating.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/treeview\/jquery.treeview.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/treeview\/jquery.treeview.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/assets\/e40532a6\/yiitab\/jquery.yiitab.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/assets\/e40532a6\/yiitab\/jquery.yiitab.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/css\/form.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -65,6 +1546,33 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/protected\/behaviors\/WebApplicationEndBehavior.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/behaviors\/WebApplicationEndBehavior.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/components\/BackEndController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/components\/BackEndController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/components\/BaseController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/components\/BaseController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/protected\/components\/Controller.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -74,11 +1582,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/protected\/components\/FrontEndController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/components\/FrontEndController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/protected\/components\/UserIdentity.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/protected\/components\/UserIdentity.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/config\/backend.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/config\/backend.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -101,6 +1627,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/protected\/config\/frontend.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/config\/frontend.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/protected\/config\/main.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -119,11 +1654,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/app\/protected\/controllers\/backend\/SiteController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/controllers\/backend\/SiteController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/controllers\/frontend\/SiteController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/controllers\/frontend\/SiteController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/app\/protected\/controllers\/SiteController.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/protected\/controllers\/SiteController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/migrations\/m141025_184526_initial_DB_create.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/migrations\/m141025_184526_initial_DB_create.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -142,6 +1704,1177 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/protected\/models\/LoginForm.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/components\/UActiveForm.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/components\/UActiveForm.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/components\/UActiveRecord.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/components\/UActiveRecord.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/components\/UHtml.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/components\/UHtml.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/components\/UserIdentity.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/components\/UserIdentity.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/components\/UWfile.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/components\/UWfile.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/components\/UWjuiAutoComplete.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/components\/UWjuiAutoComplete.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/components\/UWjuidate.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/components\/UWjuidate.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/components\/UWrelBelongsTo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/components\/UWrelBelongsTo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/components\/WebUser.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/components\/WebUser.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/controllers\/ActivationController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/controllers\/ActivationController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/controllers\/AdminController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/controllers\/AdminController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/controllers\/DefaultController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/controllers\/DefaultController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/controllers\/LoginController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/controllers\/LoginController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/controllers\/LogoutController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/controllers\/LogoutController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/controllers\/ProfileController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/controllers\/ProfileController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/controllers\/ProfileFieldController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/controllers\/ProfileFieldController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/controllers\/RecoveryController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/controllers\/RecoveryController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/controllers\/RegistrationController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/controllers\/RegistrationController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/controllers\/UserController.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/controllers\/UserController.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/de\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/de\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/de\/UWrelBelongsTo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/de\/UWrelBelongsTo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/el\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/el\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/el\/UWrelBelongsTo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/el\/UWrelBelongsTo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/es\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/es\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/es\/UWrelBelongsTo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/es\/UWrelBelongsTo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/fr\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/fr\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/fr\/UWrelBelongsTo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/fr\/UWrelBelongsTo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/hu\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/hu\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/hu\/UWrelBelongsTo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/hu\/UWrelBelongsTo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/ja\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/ja\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/ja\/UWrelBelongsTo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/ja\/UWrelBelongsTo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/nl\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/nl\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/nl\/UWrelBelongsTo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/nl\/UWrelBelongsTo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/pl\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/pl\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/pl\/UWrelBelongsTo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/pl\/UWrelBelongsTo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/pt\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/pt\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/pt\/UWrelBelongsTo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/pt\/UWrelBelongsTo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/ro\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/ro\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/ro\/UWrelBelongsTo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/ro\/UWrelBelongsTo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/ru\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/ru\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/ru\/UWrelBelongsTo.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/ru\/UWrelBelongsTo.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/messages\/uk\/user.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/messages\/uk\/user.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/migrations\/m110805_153437_installYiiUser.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/migrations\/m110805_153437_installYiiUser.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/migrations\/m110810_162301_userTimestampFix.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/migrations\/m110810_162301_userTimestampFix.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/models\/Profile.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/models\/Profile.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/models\/ProfileField.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/models\/ProfileField.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/models\/RegistrationForm.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/models\/RegistrationForm.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/models\/User.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/models\/User.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/models\/UserChangePassword.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/models\/UserChangePassword.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/models\/UserLogin.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/models\/UserLogin.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/models\/UserRecoveryForm.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/models\/UserRecoveryForm.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/UserModule.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/UserModule.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/admin\/_form.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/admin\/_form.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/admin\/_search.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/admin\/_search.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/admin\/create.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/admin\/create.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/admin\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/admin\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/admin\/update.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/admin\/update.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/admin\/view.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/admin\/view.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_flat_0_aaaaaa_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_flat_75_ffffff_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 178,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_flat_75_ffffff_40x100.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_flat_75_ffffff_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_55_fbf9ee_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_55_fbf9ee_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_65_ffffff_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_75_dadada_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_75_dadada_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_75_e6e6e6_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_75_e6e6e6_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_95_fef1ec_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-bg_highlight-soft_75_cccccc_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_222222_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_222222_256x240.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_222222_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_2e83ff_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_2e83ff_256x240.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_2e83ff_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_454545_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_454545_256x240.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_454545_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_888888_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_888888_256x240.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_888888_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_cd0a0a_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery-ui.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery-ui.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.accordion.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.accordion.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.all.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.all.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.autocomplete.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.autocomplete.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.base.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.base.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.button.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.button.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.core.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.core.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.datepicker.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.datepicker.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.dialog.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.dialog.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.progressbar.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.progressbar.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.resizable.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.resizable.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.slider.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.slider.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.tabs.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.tabs.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/base\/jquery.ui.theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_flat_0_aaaaaa_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_flat_55_fbec88_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_flat_55_fbec88_40x100.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_flat_55_fbec88_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_glass_75_d0e5f5_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_glass_75_d0e5f5_1x400.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_glass_75_d0e5f5_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_glass_85_dfeffc_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_glass_85_dfeffc_1x400.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_glass_85_dfeffc_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_glass_95_fef1ec_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_gloss-wave_55_5c9ccc_500x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3457,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_inset-hard_100_f5f8f9_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_inset-hard_100_f5f8f9_1x100.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_inset-hard_100_f5f8f9_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_inset-hard_100_fcfdfd_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_inset-hard_100_fcfdfd_1x100.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-bg_inset-hard_100_fcfdfd_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_217bc0_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5355,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_217bc0_256x240.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_217bc0_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_2e83ff_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_2e83ff_256x240.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_2e83ff_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_469bdd_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_469bdd_256x240.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_469bdd_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_6da8d5_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5355,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_6da8d5_256x240.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_6da8d5_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_cd0a0a_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_d8e7f3_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5355,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_d8e7f3_256x240.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_d8e7f3_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_f9bd01_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4369,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_f9bd01_256x240.png",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/images\/ui-icons_f9bd01_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/jquery-ui.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/redmond\/jquery-ui.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/js\/jquery-ui-1.8.4.custom.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/js\/jquery-ui-1.8.4.custom.min.js",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/js\/min\/jquery-ui-1.8.4.custom.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/js\/jquery-ui-i18n.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/js\/jquery-ui-i18n.min.js",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/js\/min\/jquery-ui-i18n.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/js\/jquery-ui.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/js\/jquery-ui.min.js",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/js\/min\/jquery-ui.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/protected\/modules\/user\/views\/asset\/js\/jquery.json.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/js\/jquery.json.js",
+		"outputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/asset\/js\/min\/jquery.json-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/protected\/modules\/user\/views\/profile\/changepassword.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/profile\/changepassword.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/profile\/edit.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/profile\/edit.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/profile\/profile.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/profile\/profile.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/profileField\/_form.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/profileField\/_form.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/profileField\/_search.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/profileField\/_search.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/profileField\/_view.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/profileField\/_view.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/profileField\/admin.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/profileField\/admin.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/profileField\/create.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/profileField\/create.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/profileField\/update.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/profileField\/update.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/profileField\/view.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/profileField\/view.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/recovery\/changepassword.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/recovery\/changepassword.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/recovery\/recovery.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/recovery\/recovery.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/user\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/user\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/user\/login.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/user\/login.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/user\/message.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/user\/message.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/user\/registration.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/user\/registration.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/modules\/user\/views\/user\/view.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/modules\/user\/views\/user\/view.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -173,74 +2906,213 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/protected\/views\/layouts\/column1.php": {
+	"\/app\/protected\/views\/backend\/layouts\/column1.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/protected\/views\/layouts\/column1.php",
+		"inputAbbreviatedPath": "\/app\/protected\/views\/backend\/layouts\/column1.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/protected\/views\/layouts\/column2.php": {
+	"\/app\/protected\/views\/backend\/layouts\/column2.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/protected\/views\/layouts\/column2.php",
+		"inputAbbreviatedPath": "\/app\/protected\/views\/backend\/layouts\/column2.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/protected\/views\/layouts\/main.php": {
+	"\/app\/protected\/views\/backend\/layouts\/main.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/protected\/views\/layouts\/main.php",
+		"inputAbbreviatedPath": "\/app\/protected\/views\/backend\/layouts\/main.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/protected\/views\/site\/contact.php": {
+	"\/app\/protected\/views\/backend\/site\/contact.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/protected\/views\/site\/contact.php",
+		"inputAbbreviatedPath": "\/app\/protected\/views\/backend\/site\/contact.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/protected\/views\/site\/error.php": {
+	"\/app\/protected\/views\/backend\/site\/error.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/protected\/views\/site\/error.php",
+		"inputAbbreviatedPath": "\/app\/protected\/views\/backend\/site\/error.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/protected\/views\/site\/index.php": {
+	"\/app\/protected\/views\/backend\/site\/index.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/protected\/views\/site\/index.php",
+		"inputAbbreviatedPath": "\/app\/protected\/views\/backend\/site\/index.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/protected\/views\/site\/login.php": {
+	"\/app\/protected\/views\/backend\/site\/login.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/protected\/views\/site\/login.php",
+		"inputAbbreviatedPath": "\/app\/protected\/views\/backend\/site\/login.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/protected\/views\/site\/pages\/about.php": {
+	"\/app\/protected\/views\/backend\/site\/pages\/about.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/protected\/views\/site\/pages\/about.php",
+		"inputAbbreviatedPath": "\/app\/protected\/views\/backend\/site\/pages\/about.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/css\/ablakok.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37486,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/css\/ablakok.jpg",
+		"outputAbbreviatedPath": "\/app\/protected\/views\/frontend\/css\/ablakok.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/views\/frontend\/css\/form.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/css\/form.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/css\/ie.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/css\/ie.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/css\/print.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/css\/print.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/css\/restaurant_icons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14555,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/css\/restaurant_icons.png",
+		"outputAbbreviatedPath": "\/app\/protected\/views\/frontend\/css\/restaurant_icons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/protected\/views\/frontend\/css\/screen.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/css\/screen.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/layouts\/column1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/layouts\/column1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/layouts\/column2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/layouts\/column2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/site\/contact.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/site\/contact.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/site\/error.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/site\/error.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/site\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/site\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/site\/login.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/site\/login.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/site\/pages\/about.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/site\/pages\/about.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/protected\/views\/frontend\/views\/frontend\/layouts\/main.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/protected\/views\/frontend\/views\/frontend\/layouts\/main.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -250,6 +3122,82 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/protected\/yiic.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/themes\/windows\/css\/ablakok.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37486,
+		"inputAbbreviatedPath": "\/app\/themes\/windows\/css\/ablakok.jpg",
+		"outputAbbreviatedPath": "\/app\/themes\/windows\/css\/ablakok.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/themes\/windows\/css\/form.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/themes\/windows\/css\/form.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/themes\/windows\/css\/ie.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/themes\/windows\/css\/ie.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/themes\/windows\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/themes\/windows\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/themes\/windows\/css\/print.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/themes\/windows\/css\/print.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/themes\/windows\/css\/restaurant_icons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14555,
+		"inputAbbreviatedPath": "\/app\/themes\/windows\/css\/restaurant_icons.png",
+		"outputAbbreviatedPath": "\/app\/themes\/windows\/css\/restaurant_icons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/themes\/windows\/css\/screen.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/themes\/windows\/css\/screen.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/themes\/windows\/views\/frontend\/layouts\/main.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/themes\/windows\/views\/frontend\/layouts\/main.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
