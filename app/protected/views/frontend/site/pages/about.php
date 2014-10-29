@@ -13,6 +13,6 @@ $this->breadcrumbs=array(
 
 <p>Проект пока находится на стадии разработки. А пока наслаждайтесь котиками;)</p>
 
-<img src="http://placekitten.com/450/300" alt="Kitty!"/>
+<img src="http://placekitten.com/850/300" alt="Kitty!"/>
 
 

@@ -38,7 +38,6 @@ class BackEndController extends BaseController
             array(
                 'allow',
                 'users'=>Yii::app()->getModule('user')->getAdmins(),
-                //'roles'=>array('admin'),
             ),
             // всем остальным разрешаем посмотреть только на страницу авторизации
             array(

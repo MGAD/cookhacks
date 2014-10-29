@@ -6,7 +6,7 @@ return CMap::mergeArray(
     
     array(
         // стандартный контроллер
-        'defaultController' => 'site',
+        'defaultController' => 'articles',
         
         // компоненты
         'components'=>array(

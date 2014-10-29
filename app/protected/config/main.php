@@ -9,7 +9,7 @@ return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
 	'name'=>'Cookhacks project',
 	'language'=>'ru',
-	'theme'=>'windows/frontend/',
+	'theme'=>'windows',
 
 	// preloading 'log' component
 	'preload'=>array('log'),
@@ -24,7 +24,7 @@ return array(
 
 	'behaviors'=>array(
 	  'runEnd'=>array(
-	  'class'=>'application.behaviors.WebApplicationEndBehavior',
+	  	'class'=>'application.behaviors.WebApplicationEndBehavior',
 	  ),
 	),
 
