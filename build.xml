@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="cookhacks" default="deploy" basedir=".">
+    <property name="deploy.dir" value="/var/www/test.ru"/>
+    <property name="ssh.host" value="77.222.40.75"/>
+    <property name="ssh.user" value="igonikru"/>
+    <property name="ssh.password" value=""/>
+    <property name="message" value="Hello World!"/>
+    <target name="deploy">
+        <echo msg="${message}"/>
+        <echo msg="Обновляем данные..."/>
+        <ssh username="${ssh.user}" password="${ssh.password}" host="${ssh.host}" command="cd ${deploy.dir} &amp;&amp; git pull origin master" />
+        <echo msg="Запускаем миграции..."/>
+        <ssh username="${ssh.user}" password="${ssh.password}" host="${ssh.host}" command="cd ${deploy.dir} &amp;&amp; php app/yiic.php migrate --interactive=0" />
+    </target>
+</project>
